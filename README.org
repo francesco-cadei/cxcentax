@@ -1,0 +1,154 @@
+* formule concordate
+
+"Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba, vedo che ha aperto una richiesta di assistenza ..."
+
+"Le ho inviato una email con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante "si, ho risolto".
+La ringrazio, è stato un piacere, buona giornata!"
+
+
+* gestione, www.pec.it
+** tickets (richieste di assistenza)
+
+- centax => gestisci
+- billing_aruba => sollecito, mandare ticket ad un tl su temas
+- aruba => conference => tranferisci
+- _ => tranferisci
+
+
+** partner/inoltroko: mappare activity
+
+- supportotitolari.aruba.it
+- @archiworldpec.it: 0575050013
+- @ingpec.eu: 0575050014
+"..non l'ha acquistata direttamente dal sito pec.it, avrà un'assistenza dedicata al sito.."
+
+
+** webmail.pec.it (pec/recuperopwpec)
+
+- webmail => transazione webmail
+
+
+** modificacontatti.pec.it (contatti pga => conferma titolarità leg.rapp.)
+
+- webmail => impostazioni => email e cellulare
+
+
+** areaclienti.pec.it (pec/user/creauser)
+
+- contatti username => conferma titolarità
+- fare annullare gli ordini all'utente
+
+
+** username
+
+- visualizzare carte
+- accesso trust
+
+
+** modifica email spa => billing aruba
+
+
+** pagamenti.aruba.it (n.ordine/carte/paypal)
+
+- contabilità => visualizza transazioni => transazioni (n.ordine)
+- cms billing => procedure => codici di errore
+
+
+** comunicazioni aruba (@staff.aruba.it)
+
+- pagamenti e fature => phishing
+
+
+** modifica titolare => modifica titolare
+
+
+** pagamenti e fatture => inserimento dati pagamento
+
+- bollettino premarcato ha il timbro
+_ => ustituti privati: cro, n.ordine, importo
+
+
+- contabilità => imposta pagamento (usare virgola)
+- aggiungere nota con il: ticket, commento, n. ordine
+
+
+- la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo
+- no cro: n.ordine n.ordine
+
+
+** fatture.aruba.it
+
+contabilità => visualizza fatture => n.ordine
+
+
+** conferma id
+
+e-security => pec eu consumer
+- ko
+- in lavorazione
+- nuova documentazione
+
+
+- cf: legale rappresentante
+- avienda: visura camerale
+- associazoni: verbale assembleare
+(più recente del ko e non più vecchia di 30giorni)
+
+
+** no servizio
+
+- correzione dati errati
+
+
+** nome
+
+- impostazione casella pec => cambio nome
+- risposta scalata a billing_aruba
+
+
+** diritto di recesso
+
+- scalo a tl, motivo altro
+
+
+** assistenza.aruba.it
+
+
+** mystery garante privacy
+
+- aprire sempre una nuova richiesta come una sottocategoria di: privacy, dati personali e ..
+- inoltrare a: privacy_change / account_anagrafica_privacy
+- "le ho aperto una richiesta dedicata, riceverà una risposta da un opereratore che tratta queste tematiche quanto prima"
+- aruba deve rispondere entro 30g a queste richieste
+- eventuale email per contatto anonimo: privacy@staff.aruba.it
+
+** incident
+
+- apri richiesta
+- incident => codice
+
+
+** richieste da autorità
+
+- PRO11271
+
+
+** pausa
+
+- 15min: 626
+
+
+** pec
+
+- .xml: struttura messaggio
+- .eml: messaggio inviato
+- .p7s: certificati
+
+
+** fine turno
+
+- rilasciare: lavorazione, feedback
+- tenere: attesa utente, pianificato
+- mai rilasciare: mancata accettazione
+
+
