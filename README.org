@@ -28,7 +28,7 @@ La ringrazio, è stato un piacere, buona giornata!"
 - webmail => transazione webmail
 
 
-** modificacontatti.pec.it (contatti pga => conferma titolarità leg.rapp.)
+** [[https://account.aruba.it/pec/contact-details-edit/home][modificacontatti.pec.it]] (contatti pga => conferma titolarità leg.rapp.)
 
 - webmail => impostazioni => email e cellulare
 
@@ -65,7 +65,7 @@ La ringrazio, è stato un piacere, buona giornata!"
 ** pagamenti e fatture => inserimento dati pagamento
 
 - bollettino premarcato ha il timbro
-_ => ustituti privati: cro, n.ordine, importo
+- _ => ustituti privati: cro, n.ordine, importo
 
 
 - contabilità => imposta pagamento (usare virgola)
