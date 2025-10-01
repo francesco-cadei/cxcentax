@@ -6,7 +6,7 @@
 La ringrazio, è stato un piacere, buona giornata!"
 
 
-* gestione, www.pec.it
+* www.pec.it
 ** tickets (richieste di assistenza)
 
 - centax => gestisci
@@ -28,9 +28,9 @@ La ringrazio, è stato un piacere, buona giornata!"
 - webmail => transazione webmail
 
 
-** [[https://account.aruba.it/pec/contact-details-edit/home][modificacontatti.pec.it]] (contatti pga => conferma titolarità leg.rapp.)
+** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
 
-- webmail => impostazioni => email e cellulare
+- contatti pga => conferma titolarità leg.rapp.
 
 
 ** areaclienti.pec.it (pec/user/creauser)
