@@ -4,11 +4,18 @@
 
 "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba. Vedo che ha aperto una richiesta di assistenza ..."
 
-"Le ho inviato una email con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante =Sì, ho risolto.=.
+"Le ho inviato una email con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante =Sì, ho risolto.=
 La ringrazio, è stato un piacere, buona giornata!"
 
 
 * www.pec.it
+
+** pec
+
+- .xml: struttura messaggio
+- .eml: messaggio inviato
+- .p7s: certificati
+
 
 ** tickets (richieste di assistenza)
 
@@ -24,7 +31,7 @@ La ringrazio, è stato un piacere, buona giornata!"
 - supportotitolari.aruba.it
 - @archiworldpec.it: 0575050013
 - @ingpec.eu: 0575050014
-"..non l'ha acquistata direttamente dal sito pec.it, avrà un'assistenza dedicata al sito.."
+"..non l'ha acquistata direttamente dal portale pec.it, avrà un'assistenza dedicata al sito.."
 
 
 ** webmail.pec.it (pec/recuperopwpec)
@@ -39,7 +46,7 @@ La ringrazio, è stato un piacere, buona giornata!"
 
 ** areaclienti.pec.it (pec/user/creauser)
 
-- (provare a modificare l'email tramite cell.)
+- (provare a modificare l'email tramite cell)
 - contatti username => conferma documenti del nuovo titolare
 - fare annullare gli ordini all'utente
 
@@ -57,7 +64,7 @@ La ringrazio, è stato un piacere, buona giornata!"
 
 ** modifica titolare => modifica titolare
 
-- usare username se pec con riconoscimento identità pendente
+- (usare username se pec con riconoscimento identità pendente)
 
 
 ** modifica email spa => billing aruba
@@ -156,13 +163,6 @@ e-security => pec eu consumer
 ** richieste da autorità
 
 - PRO11271
-
-
-** pec
-
-- .xml: struttura messaggio
-- .eml: messaggio inviato
-- .p7s: certificati
 
 
 ** pausa
