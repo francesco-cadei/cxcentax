@@ -41,12 +41,14 @@ La ringrazio, è stato un piacere, buona giornata!"
 
 ** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
 
+- (modifica pw => modifica contatti)
 - contatti pga => conferma titolarità leg.rapp.
 
 
 ** areaclienti.pec.it (pec/user/creauser)
 
 - (provare a modificare l'email tramite cell)
+- (usare username quando 2fa attiva)
 - contatti username => conferma documenti del nuovo titolare
 - fare annullare gli ordini all'utente
 
