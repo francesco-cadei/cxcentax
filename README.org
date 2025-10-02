@@ -1,4 +1,6 @@
-* formule concordate
+* formule
+
+"Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
 
 "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba, vedo che ha aperto una richiesta di assistenza ..."
 
@@ -10,8 +12,9 @@ La ringrazio, è stato un piacere, buona giornata!"
 ** tickets (richieste di assistenza)
 
 - centax => gestisci
-- billing_aruba => sollecito, mandare ticket ad un tl su temas
-- aruba => conference => tranferisci
+- billing_aruba => sollecito, mandare ticket ad un tl su teams
+- aruba lun-ven 8:30-12:45, 14:30-17:30 => conference => tranferisci
+- aruba fuori_orario => sollecito
 - _ => tranferisci
 
 
@@ -45,6 +48,16 @@ La ringrazio, è stato un piacere, buona giornata!"
 - accesso trust
 
 
+** no servizio
+
+- correzione dati errati
+
+
+** modifica titolare => modifica titolare
+
+- usare username se pec con riconoscimento identità pendente
+
+
 ** modifica email spa => billing aruba
 
 
@@ -54,18 +67,10 @@ La ringrazio, è stato un piacere, buona giornata!"
 - cms billing => procedure => codici di errore
 
 
-** comunicazioni aruba (@staff.aruba.it)
-
-- pagamenti e fature => phishing
-
-
-** modifica titolare => modifica titolare
-
-
 ** pagamenti e fatture => inserimento dati pagamento
 
-- bollettino premarcato ha il timbro
-- _ => ustituti privati: cro, n.ordine, importo
+- bollettino premarcato (ha il timbro)
+- bollettino bianco (istituti privati): cro, n.ordine, importo
 
 
 - contabilità => imposta pagamento (usare virgola)
@@ -79,6 +84,12 @@ La ringrazio, è stato un piacere, buona giornata!"
 ** fatture.aruba.it
 
 contabilità => visualizza fatture => n.ordine
+
+
+** nome
+
+- impostazione casella pec => cambio nome
+- risposta scalata a billing_aruba
 
 
 ** conferma id
@@ -95,15 +106,9 @@ e-security => pec eu consumer
 (più recente del ko e non più vecchia di 30giorni)
 
 
-** no servizio
+** comunicazioni aruba (@staff.aruba.it)
 
-- correzione dati errati
-
-
-** nome
-
-- impostazione casella pec => cambio nome
-- risposta scalata a billing_aruba
+- pagamenti e fature => phishing
 
 
 ** diritto di recesso
@@ -111,7 +116,10 @@ e-security => pec eu consumer
 - scalo a tl, motivo altro
 
 
-** assistenza.aruba.it
+** incident
+
+- apri richiesta
+- incident => codice
 
 
 ** mystery garante privacy
@@ -122,10 +130,8 @@ e-security => pec eu consumer
 - aruba deve rispondere entro 30g a queste richieste
 - eventuale email per contatto anonimo: privacy@staff.aruba.it
 
-** incident
 
-- apri richiesta
-- incident => codice
+** assistenza.aruba.it
 
 
 ** richieste da autorità
@@ -133,16 +139,16 @@ e-security => pec eu consumer
 - PRO11271
 
 
-** pausa
-
-- 15min: 626
-
-
 ** pec
 
 - .xml: struttura messaggio
 - .eml: messaggio inviato
 - .p7s: certificati
+
+
+** pausa
+
+- 15min: 626
 
 
 ** fine turno
