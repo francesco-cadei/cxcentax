@@ -2,19 +2,20 @@
 
 "Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
 
-"Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba, vedo che ha aperto una richiesta di assistenza ..."
+"Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba. Vedo che ha aperto una richiesta di assistenza ..."
 
-"Le ho inviato una email con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante "si, ho risolto".
+"Le ho inviato una email con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante =Sì, ho risolto.=.
 La ringrazio, è stato un piacere, buona giornata!"
 
 
 * www.pec.it
+
 ** tickets (richieste di assistenza)
 
 - centax => gestisci
 - billing_aruba => sollecito, mandare ticket ad un tl su teams
-- aruba lun-ven 8:30-12:45, 14:30-17:30 => conference => tranferisci
-- aruba fuori_orario => sollecito
+- aruba: lun-ven 8:30-12:45, 14:30-17:30 => conference => tranferisci
+- aruba: fuori_orario => sollecito
 - _ => tranferisci
 
 
@@ -38,7 +39,8 @@ La ringrazio, è stato un piacere, buona giornata!"
 
 ** areaclienti.pec.it (pec/user/creauser)
 
-- contatti username => conferma titolarità
+- (provare a modificare l'email tramite cell.)
+- contatti username => conferma documenti del nuovo titolare
 - fare annullare gli ordini all'utente
 
 
@@ -116,6 +118,11 @@ e-security => pec eu consumer
 - scalo a tl, motivo altro
 
 
+** configurazione client
+
+- [[https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx][https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx]]
+
+
 ** incident
 
 - apri richiesta
@@ -129,6 +136,18 @@ e-security => pec eu consumer
 - "le ho aperto una richiesta dedicata, riceverà una risposta da un opereratore che tratta queste tematiche quanto prima"
 - aruba deve rispondere entro 30g a queste richieste
 - eventuale email per contatto anonimo: privacy@staff.aruba.it
+
+
+** disconoscimento pagamento
+
+- amministrazione e pagamenti => disconoscimento pagamento
+- alla risposta => inoltra pagamenti_billing_aruba
+
+
+** disdetta conservazione digitale
+
+- servizio aggiuntivo => inoltrare pec_change_aruba
+- (indicare al cliente di attendere una risposta)
 
 
 ** assistenza.aruba.it
