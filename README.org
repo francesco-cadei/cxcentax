@@ -4,13 +4,11 @@
 
 "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba. Vedo che ha aperto una richiesta di assistenza ..."
 
-"Le ho inviato una email con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante =Sì, ho risolto.=
+"Le ho inviato una email di risoluzione con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante =Sì, ho risolto.=
 La ringrazio, è stato un piacere, buona giornata!"
 
 
 * www.pec.it
-
-** pec
 
 - .xml: struttura messaggio
 - .eml: messaggio inviato
@@ -42,13 +40,13 @@ La ringrazio, è stato un piacere, buona giornata!"
 - webmail => transazione webmail
 
 
-** [[https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx][configurazione-client]]
-
-
 ** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
 
 - (modifica pw => modifica contatti)
 - contatti pga => conferma titolarità leg.rapp.
+
+
+** [[https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx][configurazione-client]]
 
 
 -----
@@ -62,32 +60,24 @@ La ringrazio, è stato un piacere, buona giornata!"
 - fare annullare gli ordini all'utente
 
 
-** no servizio
-
-- correzione dati errati
-
-
 ** modifica titolare => modifica titolare
 
-- (usare username se pec con riconoscimento identità pendente)
+- (usare username se la pec ha un riconoscimento identità pendente)
+- => reset storico accessi
 
 
-** username
+** correzione dati errati
+
+- (no servizio)
+
+
+** extranet username
 
 - visualizzare carte
 - accesso trust
 
 
 -----
-
-
-** modifica email spa => billing aruba
-
-
-** pagamenti.aruba.it (n.ordine/carte/paypal)
-
-- contabilità => visualizza transazioni => transazioni (n.ordine)
-- cms billing => procedure => codici di errore
 
 
 ** pagamenti e fatture => inserimento dati pagamento
@@ -104,6 +94,15 @@ La ringrazio, è stato un piacere, buona giornata!"
 - no cro: n.ordine n.ordine
 
 
+** pagamenti.aruba.it (n.ordine/carte/paypal)
+
+- contabilità => visualizza transazioni => transazioni (n.ordine)
+- cms billing => procedure => codici di errore
+
+
+** modifica email spa => billing aruba
+
+
 ** fatture.aruba.it
 
 contabilità => visualizza fatture => n.ordine
@@ -112,16 +111,10 @@ contabilità => visualizza fatture => n.ordine
 -----
 
 
-** nome
+** cambio nome
 
 - impostazione casella pec => cambio nome
 - risposta scalata a billing_aruba
-
-
-** disconoscimento pagamento
-
-- amministrazione e pagamenti => disconoscimento pagamento
-- alla risposta => inoltra pagamenti_billing_aruba
 
 
 ** disdetta conservazione digitale
@@ -130,17 +123,18 @@ contabilità => visualizza fatture => n.ordine
 - (indicare al cliente di attendere una risposta)
 
 
+** disconoscimento pagamento
+
+- amministrazione e pagamenti => disconoscimento pagamento
+- alla risposta => inoltra pagamenti_billing_aruba
+
+
 ** diritto di recesso
 
 - scalo a tl, motivo altro
 
 
 -----
-
-
-** comunicazioni aruba (@staff.aruba.it)
-
-- pagamenti e fature => phishing
 
 
 ** conferma id
@@ -157,12 +151,15 @@ e-security => pec eu consumer
 (più recente del ko e non più vecchia di 30giorni)
 
 
+** comunicazioni aruba (@staff.aruba.it)
+
+- pagamenti e fature => phishing
+
+
+** assistenza.aruba.it (assistenza autenticata)
+
+
 ** richieste da autorità: PRO11271
-
-
-** assistenza.aruba.it
-
-- aprire assistenza autenticata
 
 
 -----
@@ -188,7 +185,7 @@ e-security => pec eu consumer
 
 ** pause
 
-- 15min: 626
+- 626: 15min
 
 
 ** fine turno
