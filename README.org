@@ -34,15 +34,24 @@ La ringrazio, è stato un piacere, buona giornata!"
 "..non l'ha acquistata direttamente dal portale pec.it, avrà un'assistenza dedicata al sito.."
 
 
+-----
+
+
 ** webmail.pec.it (pec/recuperopwpec)
 
 - webmail => transazione webmail
+
+
+** [[https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx][configurazione-client]]
 
 
 ** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
 
 - (modifica pw => modifica contatti)
 - contatti pga => conferma titolarità leg.rapp.
+
+
+-----
 
 
 ** areaclienti.pec.it (pec/user/creauser)
@@ -53,12 +62,6 @@ La ringrazio, è stato un piacere, buona giornata!"
 - fare annullare gli ordini all'utente
 
 
-** username
-
-- visualizzare carte
-- accesso trust
-
-
 ** no servizio
 
 - correzione dati errati
@@ -67,6 +70,15 @@ La ringrazio, è stato un piacere, buona giornata!"
 ** modifica titolare => modifica titolare
 
 - (usare username se pec con riconoscimento identità pendente)
+
+
+** username
+
+- visualizzare carte
+- accesso trust
+
+
+-----
 
 
 ** modifica email spa => billing aruba
@@ -97,10 +109,38 @@ La ringrazio, è stato un piacere, buona giornata!"
 contabilità => visualizza fatture => n.ordine
 
 
+-----
+
+
 ** nome
 
 - impostazione casella pec => cambio nome
 - risposta scalata a billing_aruba
+
+
+** disconoscimento pagamento
+
+- amministrazione e pagamenti => disconoscimento pagamento
+- alla risposta => inoltra pagamenti_billing_aruba
+
+
+** disdetta conservazione digitale
+
+- servizio aggiuntivo => inoltrare pec_change_aruba
+- (indicare al cliente di attendere una risposta)
+
+
+** diritto di recesso
+
+- scalo a tl, motivo altro
+
+
+-----
+
+
+** comunicazioni aruba (@staff.aruba.it)
+
+- pagamenti e fature => phishing
 
 
 ** conferma id
@@ -117,19 +157,15 @@ e-security => pec eu consumer
 (più recente del ko e non più vecchia di 30giorni)
 
 
-** comunicazioni aruba (@staff.aruba.it)
-
-- pagamenti e fature => phishing
+** richieste da autorità: PRO11271
 
 
-** diritto di recesso
+** assistenza.aruba.it
 
-- scalo a tl, motivo altro
+- aprire assistenza autenticata
 
 
-** configurazione client
-
-- [[https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx][https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx]]
+-----
 
 
 ** incident
@@ -147,27 +183,10 @@ e-security => pec eu consumer
 - eventuale email per contatto anonimo: privacy@staff.aruba.it
 
 
-** disconoscimento pagamento
-
-- amministrazione e pagamenti => disconoscimento pagamento
-- alla risposta => inoltra pagamenti_billing_aruba
+-----
 
 
-** disdetta conservazione digitale
-
-- servizio aggiuntivo => inoltrare pec_change_aruba
-- (indicare al cliente di attendere una risposta)
-
-
-** assistenza.aruba.it
-
-
-** richieste da autorità
-
-- PRO11271
-
-
-** pausa
+** pause
 
 - 15min: 626
 
