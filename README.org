@@ -111,8 +111,8 @@ contabilità => visualizza fatture => n.ordine
 
 ** cambio nome
 
-- impostazione casella pec => cambio nome
-- risposta scalata a billing_aruba
+- impostazione casella pec => conversazione: cambio nome
+- risposta inoltrata a pagamenti_billing_aruba
 
 
 ** disdetta conservazione digitale
