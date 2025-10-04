@@ -1,11 +1,9 @@
 * formule
 
-"Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
-
-"Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba. Vedo che ha aperto una richiesta di assistenza ..."
-
-"Le ho inviato una email di risoluzione con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante =Sì, ho risolto.=
-La ringrazio, è stato un piacere, buona giornata!"
+- ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba. Vedo che ha aperto una richiesta di assistenza .."
+- chiamata :: "Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
+- attesa :: "La metto un attimo in attesa .."
+- chiusura :: "Le ho inviato una email di risoluzione con quello che abbiamo fatto, se le sono stato utile può cliccare sul pulsante =Sì, ho risolto.= La ringrazio, è stato un piacere, buona giornata!"
 
 
 * www.pec.it
