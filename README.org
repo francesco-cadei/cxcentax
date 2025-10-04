@@ -22,12 +22,14 @@
 - _ => tranferisci
 
 
-** partner/inoltroko: mappare activity
+** partner/inoltroko: mappare activity (ticket: mdc partner)
+
+"l'indirizzo Pec @indirizzo@ non l'ha acquistato direttamente dal portale pec.it, pertanto troverà un'assistenza dedicata al .."
+
 
 - supportotitolari.aruba.it
 - @archiworldpec.it: 0575050013
 - @ingpec.eu: 0575050014
-"..non l'ha acquistata direttamente dal portale pec.it, avrà un'assistenza dedicata al sito.."
 
 
 -----
