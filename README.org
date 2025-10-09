@@ -66,9 +66,12 @@
 - => reset storico accessi
 
 
-** correzione dati errati
+** correzione dati errati (no servizio)
 
-- (no servizio)
+- residenza italiana => username => cambio dati
+- residenza estero / altro =>
+  - solo pec => inoltrare a pec_change_aruba
+  - anche altri servizi => inoltrare a account_anagrafica_cambio_dati
 
 
 ** extranet username
@@ -151,7 +154,7 @@ e-security => pec eu consumer
 (più recente del ko e non più vecchia di 30giorni)
 
 
-** comunicazioni aruba (@staff.aruba.it)
+** comunicazioni aruba (@staff.aruba.it, 05750505)
 
 - pagamenti e fature => phishing
 
