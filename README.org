@@ -183,6 +183,12 @@ e-security => pec eu consumer
 - eventuale email per contatto anonimo: privacy@staff.aruba.it
 
 
+** cambia gruppo
+
+- dispatch => hosting, fatturazione, cloud
+- operatore => pec, spid, firma, billing
+
+
 -----
 
 
