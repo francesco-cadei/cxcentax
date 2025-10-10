@@ -47,7 +47,9 @@ max1 per volta => spezzare la risoluzione
 
 ** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
 
-- (modifica pw => modifica contatti)
+accedi alla pec => pw dimenticata => modifica contatto
+
+
 - contatti pga => conferma titolarità leg.rapp.
 
 
@@ -59,22 +61,26 @@ max1 per volta => spezzare la risoluzione
 
 ** areaclienti.pec.it (pec/user/creauser)
 
-- (provare a modificare l'email tramite cell)
-- (usare username quando 2fa attiva)
+tentare dia modificare l'email tramite cell.
+
+
+- (usare username per rinnovare quando 2fa attiva)
 - contatti username => conferma documenti del nuovo titolare
 - fare annullare gli ordini all'utente
 
 
 ** modifica titolare => modifica titolare
 
-- (usare username se la pec ha un riconoscimento identità pendente)
+usare username se la pec ha un riconoscimento identità pendente
+
+
 - => reset storico accessi
 
 
 ** correzione dati errati (no servizio)
 
-- residenza italiana => username => cambio dati (modifica anche spa)
-- residenza estero / altri dati =>
+- solo residenza italiana => username => cambio dati (modifica anche spa)
+- solo residenza estero / altri dati =>
   - solo pec => inoltrare a pec_change_aruba
   - anche altri servizi => inoltrare a account_anagrafica_cambio_dati
 
@@ -90,16 +96,15 @@ max1 per volta => spezzare la risoluzione
 
 ** pagamenti e fatture => inserimento dati pagamento
 
+la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo
+
+
 - bollettino premarcato (ha il timbro)
-- bollettino bianco (istituti privati): cro, n.ordine, importo
+- bollettino bianco (istituti privati): cro (no cro => n.ordine n.ordine), n.ordine, importo
 
 
 - contabilità => imposta pagamento (usare virgola)
-- aggiungere nota con il: ticket, commento, n. ordine
-
-
-- la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo
-- no cro: n.ordine n.ordine
+- aggiungere nota: ticket, commento, n. ordine
 
 
 ** pagamenti.aruba.it (n.ordine/carte/paypal)
@@ -127,8 +132,7 @@ contabilità => visualizza fatture => n.ordine
 
 ** disdetta conservazione digitale
 
-- servizio aggiuntivo => inoltrare pec_change_aruba
-- (indicare al cliente di attendere una risposta)
+- servizio aggiuntivo => inoltrare pec_change_aruba (indicare al cliente di attendere una risposta)
 
 
 ** disconoscimento pagamento
@@ -147,27 +151,26 @@ contabilità => visualizza fatture => n.ordine
 
 ** conferma id
 
-e-security => pec eu consumer
-- ko
-- in lavorazione
-- nuova documentazione
+e-security => pec eu consumer (stato: ko, in lavorazione, nuova documentazione)
 
 
 - cf: legale rappresentante
 - avienda: visura camerale
 - associazoni: verbale assembleare
+
+
 (più recente del ko e non più vecchia di 30giorni)
+
+
+** richiesta da autorità: PRO11271
 
 
 ** comunicazioni aruba (@staff.aruba.it, 05750505/05ricontatto)
 
-- pagamenti e fature => phishing
+pagamenti e fature => phishing
 
 
 ** assistenza.aruba.it (assistenza autenticata)
-
-
-** richieste da autorità: PRO11271
 
 
 -----
@@ -175,8 +178,7 @@ e-security => pec eu consumer
 
 ** incident
 
-- apri richiesta
-- incident => codice
+apri ticket => incident => codice
 
 
 ** mystery garante privacy
@@ -195,11 +197,6 @@ e-security => pec eu consumer
 
 
 -----
-
-
-** pause
-
-- 626: 15min
 
 
 ** fine turno
