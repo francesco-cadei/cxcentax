@@ -15,7 +15,10 @@
 - .p7s: certificati
 
 
-** tickets (richieste di assistenza)
+** ticket (richiesta di assistenza)
+
+max1 per volta => spezzare la risoluzione
+
 
 - centax => gestisci
 - billing_aruba => sollecito, mandare ticket ad un tl su teams
@@ -70,8 +73,8 @@
 
 ** correzione dati errati (no servizio)
 
-- residenza italiana => username => cambio dati
-- residenza estero / altro =>
+- residenza italiana => username => cambio dati (modifica anche spa)
+- residenza estero / altri dati =>
   - solo pec => inoltrare a pec_change_aruba
   - anche altri servizi => inoltrare a account_anagrafica_cambio_dati
 
