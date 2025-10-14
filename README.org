@@ -186,7 +186,7 @@ apri ticket => incident => codice
 
 ** mystery garante privacy
 
-- aprire sempre una nuova richiesta come una sottocategoria di: privacy, dati personali e ..
+- aprire sempre una nuova richiesta come una sottocategoria di: privacy, dati personali e .. (ticket => modificare la sezione servizi)
 - inoltrare a: privacy_change / account_anagrafica_privacy
 - "le ho aperto una richiesta dedicata, riceverà una risposta da un opereratore che tratta queste tematiche quanto prima"
 - aruba deve rispondere entro 30g a queste richieste
