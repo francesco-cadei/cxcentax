@@ -102,8 +102,10 @@ usare username se la pec ha un riconoscimento identità pendente
 la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo
 
 
-- bollettino premarcato (ha il timbro)
+- bollettino premarcato, consigliato perchè minimiza gli errori (ha il timbro)
 - bollettino bianco (istituti privati): cro (no cro => n.ordine n.ordine), n.ordine, importo
+- bonifico > 72h lavorative => scala a tl
+- bonifico > 500€ => inolrare pagamenti_billing_aruba
 
 
 - contabilità => imposta pagamento (usare virgola)
