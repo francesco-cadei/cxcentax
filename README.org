@@ -1,6 +1,6 @@
 * formule
 
-- ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba. Vedo che ha aperto una richiesta di assistenza .."
+- ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba S.p.A.. Vedo che ha aperto una richiesta di assistenza .."
 - chiamata :: "Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
 - attesa :: "La metto un attimo in attesa .."
 - chiusura :: "Le ho inviato una email di risoluzione con quello che abbiamo fatto, dovrebbe cliccare sul pulsante =Sì, ho risolto.= in modo da che io possa chiudere la richiesta di assistenza."
@@ -195,11 +195,15 @@ apri ticket => incident => codice
 
 ** cambia gruppo
 
-- dispatch => hosting, fatturazione, cloud
-- operatore => pec, spid, firma (smartcard) billing
+- dispatch => hosting (dominio privato), fatturazione, cloud
+- operatore => pec, spid, firma (fra cui smartcard) billing
 
 
 -----
+
+** pause
+
+- 626: 15min
 
 
 ** fine turno
