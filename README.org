@@ -196,7 +196,7 @@ apri ticket => incident => codice
 ** cambia gruppo
 
 - dispatch => hosting, fatturazione, cloud
-- operatore => pec, spid, firma, billing
+- operatore => pec, spid, firma (smartcard) billing
 
 
 -----
