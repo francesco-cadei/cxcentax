@@ -6,6 +6,7 @@
 - chiusura :: "Le ho inviato una email di risoluzione con quello che abbiamo fatto, dovrebbe cliccare sul pulsante =Sì, ho risolto.= in modo da che io possa chiudere la richiesta di assistenza."
 
   "Ha confermato? Dovrebbe vedere: La richiesta è stata chiusa."
+  "La ringrazio, è stato un piacere."
 
 
 * www.pec.it
