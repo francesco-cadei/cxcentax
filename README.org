@@ -100,7 +100,7 @@ usare username se la pec ha un riconoscimento identità pendente
 
 ** pagamenti e fatture => inserimento dati pagamento
 
-la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo
+la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla registrazione del pagamento
 
 
 - bollettino premarcato, consigliato perchè minimiza gli errori (ha il timbro)
@@ -122,9 +122,12 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo
 ** modifica email spa => billing aruba
 
 
-** fatture.aruba.it
+** visualizare fatture, fatture.aruba.it
 
-contabilità => visualizza fatture => n.ordine
+il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
+
+
+- contabilità => visualizza fatture => n.ordine
 
 
 -----
