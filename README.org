@@ -93,6 +93,9 @@ i codici rcd li vede solo account_angrafica
   - anche altri servizi => inoltrare account_anagrafica_cambio_dati
 
 
+posso modificare il leg.rapp. da extranet, senza documentazione ma aggiungendo nota con ticket
+
+
 ** extranet username
 
 - visualizzare carte
