@@ -3,10 +3,9 @@
 - ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba S.p.A.. Vedo che ha aperto una richiesta di assistenza .."
 - chiamata :: "Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
 - attesa :: "La posso mettere un attimo in attesa? / La ringrazio per l'attessa."
-- chiusura :: "Le ho inviato una email di risoluzione con quello che abbiamo fatto, dovrebbe cliccare sul pulsante =Sì, ho risolto.= in modo da che io possa chiudere la richiesta di assistenza."
+- chiusura :: "Come ultimo passaggio dovrebbe aprire la @peo@ e trovare una email di risoluzione assistenza in cui cliccare il pulsante =Sì, ho risolto=. in questo modo possiamo chiudere la richiesta di assistenza."
 
-  "Ha confermato? Dovrebbe vedere: La richiesta è stata chiusa."
-  "La ringrazio, è stato un piacere."
+  "Ha confermato? Vede: =La richiesta è stata chiusa=? La ringrazio, è stato un piacere."
 
 
 * www.pec.it
