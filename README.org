@@ -158,7 +158,7 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 
 ** diritto di recesso
 
-- scalo a tl, motivo altro
+- auth alta => scalo a tl, motivo altro
 
 
 -----
