@@ -158,10 +158,13 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 ** disconoscimento pagamento
 
 - amministrazione e pagamenti => disconoscimento pagamento
-- alla risposta => inoltra pagamenti_billing_aruba
+- alla risposta => inoltrare pagamenti_billing_aruba
 
 
 ** diritto di recesso
+
+rimborso => inoltro billing_aruba
+
 
 - auth alta => scalo a tl, motivo altro
 
