@@ -167,6 +167,7 @@ rimborso => inoltro billing_aruba
 
 
 - auth alta => scalo a tl, motivo altro
+- consegueze cancellazione Pec :: (se la Pec dovesse entrare in cancellazione non ci sarà più modo di recuperare i messaggi contenuti all'interno, pertanto la invito ad esportarli prima di tale data)
 
 
 -----
