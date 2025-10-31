@@ -80,7 +80,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 ** modifica titolare => modifica titolare
 
-usare username se la pec ha un riconoscimento identità pendente
+usare username se la pec ha un riconoscimento identità pendente (usare pec se intralogin)
 
 
 - => reset storico accessi
@@ -218,7 +218,7 @@ apri ticket => incident => codice
 ** cambia gruppo
 
 - dispatch => hosting (dominio privato), fatturazione, cloud
-- operatore => pec, spid, firma (fra cui smartcard) billing
+- operatore => pec, spid, firma (fra cui smartcard), billing
 
 
 -----
