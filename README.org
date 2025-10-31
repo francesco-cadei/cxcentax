@@ -177,6 +177,11 @@ e-security => pec eu consumer (stato: ko, in lavorazione, nuova documentazione)
 (più recente del ko e non più vecchia di 30giorni)
 
 
+** richiesta log appliativi
+
+verifica in 2 pass. => log applicativi => inoltrare a pec_request_aruba
+
+
 ** richiesta da autorità: PRO11271
 
 
