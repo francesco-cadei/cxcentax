@@ -7,10 +7,10 @@
 
 
   - apra la @peo@
-  - apra l'indirizzo [[http://assistenzaclienti.aruba.it][assistenzaclienti.aruba.it]]
+  - www.pec.it supporto => accedi
 
-  "a questo punto dovrebbe trovare un messaggio di risoluzione assistenza in cui poter cliccare il pulsante =Sì, ho risolto=."
-  "Ha confermato? Vede: =La richiesta è stata chiusa=? La ringrazio, è stato un piacere."
+
+  "a questo punto dovrebbe trovare un messaggio di risoluzione assistenza in cui poter cliccare il pulsante =Sì, ho risolto.= confermare. Vede: =La richiesta è stata chiusa=? La ringrazio, è stato un piacere."
 
 
 * www.pec.it
