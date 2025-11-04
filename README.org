@@ -227,6 +227,11 @@ apri ticket => incident => codice
 
 -----
 
+** soluzione alternativa
+
+cambia credenziale => salva
+
+
 ** pause
 
 - 626: 15min
