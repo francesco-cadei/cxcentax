@@ -22,6 +22,8 @@
 - .eml: messaggio inviato
 - .p7s: certificati
 
+- conservazione digitale :: garantisce la conformità alle norme di legge per la conservazione e l'esigibilità dei messaggi (allegati compresi)
+
 
 ** ticket (richiesta di assistenza)
 
