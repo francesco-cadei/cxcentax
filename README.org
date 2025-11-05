@@ -190,7 +190,7 @@ e-security => pec eu consumer (stato: ko, in lavorazione, nuova documentazione)
 
 ** richiesta log appliativi
 
-verifica in 2 pass. => log applicativi => inoltrare a pec_request_aruba
+auth alta: verifica in 2 pass. => log applicativi => inoltrare a pec_request_aruba
 
 
 ** richiesta da autorità: PRO11271
