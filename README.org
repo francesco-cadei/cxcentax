@@ -58,6 +58,7 @@ messaggi peo non danno notifica
 
 
 - webmail => transazione webmail
+- aumenta spazio
 
 
 ** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
@@ -178,7 +179,7 @@ rimborso => inoltro billing_aruba
 
 
 - auth alta => scalo a tl, motivo altro
-- consegueze cancellazione Pec :: (se la Pec dovesse entrare in cancellazione non ci sarà più modo di recuperare i messaggi contenuti all'interno, pertanto la invito ad esportarli prima di tale data)
+- consegueze cancellazione Pec :: (tenga presente che se la casella Pec dovesse entrare in cancellazione non ci sarà più modo di recuperare i messaggi contenuti all'interno, pertanto la invito ad esportarli prima di tale data)
 
 
 -----
