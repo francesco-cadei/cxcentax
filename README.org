@@ -1,3 +1,4 @@
+
 * formule
 
 - ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba S.p.A.. Vedo che ha aperto una richiesta di assistenza .."
@@ -51,6 +52,9 @@ max1 per volta => spezzare la risoluzione
 
 
 ** webmail.pec.it (pec/recuperopwpec)
+
+messaggi peo non danno notifica
+
 
 - webmail => transazione webmail
 
