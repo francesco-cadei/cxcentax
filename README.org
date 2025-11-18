@@ -63,7 +63,7 @@ messaggi peo non danno notifica
 
 ** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
 
-accedi alla pec => pw dimenticata => modifica contatto
+"Aggiornamento dati di contatto account PEC" / accedi alla pec => pw dimenticata => modifica contatto
 
 
 - contatti pga => conferma titolarità leg.rapp.
