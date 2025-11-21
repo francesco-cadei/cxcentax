@@ -38,6 +38,9 @@ max1 per volta => spezzare la risoluzione
 - _ => tranferisci
 
 
+- conference :: consultazione => rimanere in attesa => trasferisci o termina
+
+
 ** partner/inoltroko: mappare activity (ticket: mdc partner)
 
 "l'indirizzo Pec @indirizzo@ non l'ha acquistato direttamente dal portale pec.it, pertanto troverà un'assistenza dedicata al .."
