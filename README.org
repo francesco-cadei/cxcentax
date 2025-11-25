@@ -60,7 +60,6 @@ messaggi peo non danno notifica
 
 
 - webmail => transazione webmail
-- aumenta spazio
 
 
 ** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
@@ -86,6 +85,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - contatti username => conferma documenti del nuovo titolare
 - fare verificare all'utente lo stato di cancellata (posso dire solo la casella è scaduta da più di 90g)
 - fare annullare gli ordini all'utente
+- aumenta spazio
 - disattivare il rinnovo automatico se non compare il pulsante rinnova
 
 
@@ -113,7 +113,9 @@ posso modificare il leg.rapp. da extranet, senza documentazione ma aggiungendo n
 
 ** extranet username
 
+username non attiva => procedo indicando il nome con un alra username valida
 username cancellata => girare ad account anagrafica
+username e pec non corrispondono => girare a pec_change
 
 
 - visualizzare carte
