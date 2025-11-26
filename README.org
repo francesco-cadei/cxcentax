@@ -248,6 +248,7 @@ apri ticket => incident => codice
 ** soluzione alternativa
 
 cambia credenziale => salva
+cambio lingua => altre informazioni
 
 
 ** pause
