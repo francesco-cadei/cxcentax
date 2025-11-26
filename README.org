@@ -62,9 +62,9 @@ messaggi peo non danno notifica
 - webmail => transazione webmail
 
 
-** [[https://modificacontatti.pec.it][modificacontatti.pec.it]] (webmail => impostazioni => email e cellulare)
+** modificacontatti.pec.it (webmail => impostazioni => email e cellulare)
 
-"Aggiornamento dati di contatto account PEC" / accedi alla pec => pw dimenticata => modifica contatto
+accedi alla pec => pw dimenticata => non puoi più accedere a questo indirizzo email? modificalo
 
 
 - contatti pga => conferma titolarità leg.rapp.
