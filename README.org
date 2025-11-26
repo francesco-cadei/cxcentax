@@ -246,15 +246,14 @@ apri ticket => incident => codice
 
 -----
 
-** soluzione alternativa
+** tricks
 
-cambia credenziale => salva
-cambio lingua => altre informazioni
+- cambia credenziale => salva
+- verificare p.soluzioni mensili
+- cambio lingua => altre informazioni
 
 
-** pause
-
-- 626: 15min
+- 626: 15min, pausa bagno
 
 
 ** fine turno
