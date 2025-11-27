@@ -94,7 +94,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 usare username se la pec ha un riconoscimento identità pendente (usare pec se intralogin)
 
-
+- pec in convenzione, modulo di richiesta e stesso cf => extranet: cambio propietà
 - => reset storico accessi
 
 
