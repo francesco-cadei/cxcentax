@@ -24,6 +24,7 @@
 
 - conservazione digitale :: garantisce la conformità alle norme di legge per la conservazione e l'esigibilità dei messaggi (allegati compresi)
 - problemi in prevendita :: crossline_assistenza_aruba => mandare ticket ad un tl su teams
+- standard europei (REM) :: possibile adeguarsi, non ancora obbligatorio
 
 
 ** ticket (richiesta di assistenza)
