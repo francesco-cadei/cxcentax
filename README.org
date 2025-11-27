@@ -178,7 +178,7 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 - alla risposta => inoltrare pagamenti_billing_aruba
 
 
-** diritto di recesso
+** diritto di recesso, mortis causa
 
 rimborso => inoltro billing_aruba
 
