@@ -157,6 +157,7 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 
 
 - contabilità => visualizza fatture => n.ordine
+- aggiornamento dati fatturazione: "cambio dati fatturazione, correzione .." => pagamenti_billing_aruba
 
 
 -----
