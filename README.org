@@ -242,6 +242,9 @@ apri ticket => incident => codice
 
 ** cambia gruppo
 
+fibra => connettività
+
+
 - dispatch => hosting (dominio privato), fatturazione, cloud
 - operatore => pec, spid, firma (fra cui smartcard), billing
 
