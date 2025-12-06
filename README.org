@@ -144,6 +144,9 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 
 ** pagamenti.aruba.it (n.ordine/carte/paypal)
 
+bil-inserimento..
+
+
 - contabilità => visualizza transazioni => transazioni (n.ordine)
 - cms billing => procedure => codici di errore
 
