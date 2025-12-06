@@ -91,7 +91,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - disattivare il rinnovo automatico se non compare il pulsante rinnova
 
 
-** modifica titolare => modifica titolare
+** modifica titolare => username / modifica titolare / mortis causa
 
 usare username se la pec ha un riconoscimento identità pendente (usare pec se intralogin)
 
