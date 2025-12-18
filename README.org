@@ -16,9 +16,7 @@
 
 * www.pec.it
 
-"raccomandata con ricevuta di ritorno dell'era digitale"
-
-indice nazionale indirizzi Pec: www.inipec.gov.it
+"nuova raccomandata con ricevuta di ritorno", www.inipec.gov.it: indice nazionale indirizzi
 
 => convenzioni
 
@@ -29,7 +27,7 @@ indice nazionale indirizzi Pec: www.inipec.gov.it
 
 - conservazione digitale :: garantisce la conformità alle norme di legge per la conservazione e l'esigibilità dei messaggi (allegati compresi)
 - problemi in prevendita :: crossline_assistenza_aruba => mandare ticket ad un tl su teams
-- standard europei (REM) :: Registered Electronic Mail, possibile adeguarsi, non ancora obbligatorio
+- standard europei (REM: Registered Electronic Mail) :: possibile adeguarsi, non ancora obbligatorio
 
 
 ** ticket (richiesta di assistenza)
