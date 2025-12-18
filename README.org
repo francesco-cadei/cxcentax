@@ -94,7 +94,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 ** modifica titolare => username / modifica titolare / mortis causa
 
-usare username se la pec ha un riconoscimento identità pendente (usare pec se intralogin)
+usare username se la pec ha un riconoscimento identità pendente (usare pec se intralogin => conferma tramite email)
 
 - pec in convenzione, modulo di richiesta e stesso cf => extranet: cambio propietà
 - => reset storico accessi
@@ -133,7 +133,7 @@ username e pec non corrispondono => girare a pec_change
 la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla registrazione del pagamento
 
 
-- bollettino premarcato, consigliato perchè minimiza gli errori (ha il timbro)
+- bollettino premarcato, consigliato perché minimiza gli errori (ha il timbro)
 - bollettino bianco (istituti privati): cro (no cro => n.ordine n.ordine), n.ordine, importo
 - bonifico > 72h lavorative => scala a tl
 - bonifico > 500€ => inolrare pagamenti_billing_aruba
