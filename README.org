@@ -145,6 +145,9 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 - aggiungere nota: ticket, commento, n. ordine
 
 
+stato ordine => pec_change_aruba: ordine pagato ma non evaso
+
+
 ** pagamenti.aruba.it (n.ordine/carte/paypal)
 
 bil-inserimento..
@@ -211,7 +214,7 @@ e-security => pec eu consumer (stato: ko, in lavorazione, nuova documentazione)
 (più recente del ko e non più vecchia di 30giorni)
 
 
-** richiesta log appliativi
+** richiesta log applicativi
 
 auth alta: verifica in 2 pass. => log applicativi => inoltrare a pec_request_aruba
 
