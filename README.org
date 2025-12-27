@@ -251,7 +251,7 @@ apri ticket => incident => codice
 fibra => connettività
 
 
-- dispatch => hosting (dominio privato), fatturazione, cloud
+- dispatch => hosting (dominio privato), fatturazione (fra cui DocFly), cloud
 - operatore => pec, spid, firma (fra cui smartcard), billing
 
 
