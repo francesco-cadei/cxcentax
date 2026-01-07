@@ -196,13 +196,16 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 - alla risposta => inoltrare pagamenti_billing_aruba
 
 
-** diritto di recesso, mortis causa (14gg intesi dall'attivazione)
+** diritto di recesso, mortis causa (14g intesi dall'attivazione)
 
-rimborso => inoltro billing_aruba
+auth alta => scalo a tl, motivo altro
 
 
-- auth alta => scalo a tl, motivo altro
-- consegueze cancellazione Pec :: (tenga presente che se la casella Pec dovesse entrare in cancellazione non ci sarà più modo di recuperare i messaggi contenuti all'interno, pertanto la invito ad esportarli prima di tale data)
+- informazione cancellazione definitiva pec => mortis causa
+- rimborso => inoltro billing_aruba
+
+
+- consegueze cancellazione Pec :: come indicato, una volta cancellata la casella Pec, non sarà più possibile recuperare i messaggi
 
 
 -----
