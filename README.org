@@ -4,7 +4,6 @@
 - ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba S.p.A.. Vedo che ha aperto una richiesta di assistenza .."
 - chiamata :: "Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
 - attesa :: "La posso mettere un attimo in attesa? / La ringrazio per l'attessa."
-- chiusura :: "Come ultimo passaggio dovremmo chiudere la richiesta di assistenza."
 
 
   - apra la @peo@
@@ -25,9 +24,14 @@
 - .eml: messaggio inviato
 - .p7s: certificati
 
+
 - conservazione digitale :: garantisce la conformità alle norme di legge per la conservazione e l'esigibilità dei messaggi (allegati compresi)
 - problemi in prevendita :: crossline_assistenza_aruba => mandare ticket ad un tl su teams
 - standard europei (REM: Registered Electronic Mail) :: possibile adeguarsi, non ancora obbligatorio
+
+
+- ric. accettazione: max 5h
+- ric. consegna: max 12h + 12h
 
 
 ** ticket (richiesta di assistenza)
