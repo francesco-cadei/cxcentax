@@ -47,6 +47,7 @@ max1 per volta => spezzare la risoluzione
 
 
 - conference :: consultazione => rimanere in attesa => trasferisci o termina
+- scalo a tl :: "scalo per verifiche"
 
 
 ** partner/inoltroko: mappare activity (ticket: mdc partner)
