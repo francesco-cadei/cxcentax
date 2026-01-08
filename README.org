@@ -101,8 +101,8 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 ** modifica titolare => username / modifica titolare / mortis causa
 
-- conferma identità pendente => usare username
 - intralogin => usare pec
+- conferma identità pendente => usare username
 
 
 - pec in convenzione, modulo di richiesta e stesso cf => extranet: cambio propietà
