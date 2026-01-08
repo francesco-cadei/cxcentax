@@ -155,13 +155,23 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 stato ordine => pec_change_aruba: ordine pagato ma non evaso
 
 
-** pagamenti.aruba.it (n.ordine/carte/paypal)
+** pagamenti.aruba.it (n.ordine:carte/paypal)
 
-bil-inserimento..
+bill-inserimento..
 
 
 - contabilità => visualizza transazioni => transazioni (n.ordine)
 - cms billing => procedure => codici di errore
+
+
+bonifico:
+#+begin_example
+Intestato a: Aruba S.p.A.
+IBAN: IT55C0538771335000042125809
+Causale: Pagamento ordine ...
+Swift/BIC: BPMOIT22XXX
+BPER Banca S.p.A. agenzia Bibbiena Stazione
+#+end_example
 
 
 ** modifica email spa => billing aruba
