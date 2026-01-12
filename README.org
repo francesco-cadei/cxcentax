@@ -176,6 +176,8 @@ BPER Banca S.p.A. agenzia Bibbiena Stazione
 
 ** modifica email spa => billing aruba
 
+modifica dati fatturazione => codice destinatario: sdi
+
 
 ** visualizare fatture, fatture.aruba.it
 
