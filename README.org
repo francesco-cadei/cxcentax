@@ -155,6 +155,9 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 stato ordine => pec_change_aruba: ordine pagato ma non evaso
 
 
+cro/trn/sct..
+
+
 ** pagamenti.aruba.it (n.ordine:carte/paypal)
 
 bill-inserimento..
@@ -193,7 +196,7 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 
 ** cambio nome
 
-- impostazione casella pec => conversazione: cambio nome
+- impostazioni casella pec => conversazione: cambio nome
 - risposta inoltrata a pagamenti_billing_aruba
 
 
