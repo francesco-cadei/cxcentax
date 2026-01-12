@@ -142,8 +142,8 @@ posso modificare il leg.rapp. da extranet, senza documentazione ma aggiungendo n
 la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla registrazione del pagamento
 
 
-- bollettino premarcato, consigliato perché minimiza gli errori (ha il timbro)
 - bollettino bianco (istituti privati): cro (no cro => n.ordine n.ordine), n.ordine, importo
+- bollettino premarcato (ha il timbro), consigliato perché minimiza gli errori
 - bonifico > 72h lavorative => scala a tl
 - bonifico > 500€ => inolrare pagamenti_billing_aruba
 
