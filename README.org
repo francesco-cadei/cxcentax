@@ -3,7 +3,7 @@
 
 - ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba S.p.A.. Vedo che ha aperto una richiesta di assistenza .."
 - chiamata :: "Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
-- attesa :: "La posso mettere un attimo in attesa? / La ringrazio per l'attessa."
+- attesa :: "Posso metterla un attimo in attesa? / La ringrazio per l'attessa."
 
 
   - apra la @peo@
@@ -71,9 +71,10 @@ messaggi peo non danno notifica
 - webmail => transazione webmail
 
 
-** modificacontatti.pec.it (webmail => impostazioni => email e cellulare)
+** modificacontatti.pec.it (changecontact aruba)
 
-accedi alla pec => pw dimenticata => non puoi più accedere a questo indirizzo email? modificalo
+- webmail => impostazioni => email e cellulare
+- accedi alla pec => pw dimenticata => non puoi più accedere a questo indirizzo email? modificalo
 
 
 - contatti pga => conferma titolarità leg.rapp.
