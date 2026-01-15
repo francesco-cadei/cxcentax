@@ -278,6 +278,7 @@ apri ticket => incident => codice
 ** cambia gruppo
 
 fibra => connettività
+rentri => certifiedplat_assistenza_transcom
 
 
 - dispatch => hosting (dominio privato), fatturazione (fra cui DocFly), cloud
