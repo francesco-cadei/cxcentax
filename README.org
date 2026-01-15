@@ -40,7 +40,7 @@ max1 per volta => spezzare la risoluzione
 
 
 - centax => gestisci
-- billing_aruba => sollecito, mandare ticket ad un tl su teams
+- billing_ARUBA => sollecito, mandare ticket ad un tl su teams
 - aruba: lun-ven 8:30-12:45, 14:30-17:30 => conference => tranferisci
 - aruba: fuori_orario => sollecito
 - _ => tranferisci
@@ -295,6 +295,9 @@ rentri => certifiedplat_assistenza_transcom
 
 
 - 626: 15min, pausa bagno
+
+
+- se non risolvi => meti note complete
 
 
 ** fine turno
