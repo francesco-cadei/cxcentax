@@ -145,7 +145,7 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 
 - bollettino bianco (istituti privati): cro (no cro => n.ordine n.ordine), n.ordine, importo
 - bollettino premarcato (ha il timbro), consigliato perché minimiza gli errori
-- bonifico > 72h lavorative => scala a tl
+- bonifico > 72h LAVORATIVE => scala a tl
 - bonifico > 500€ => inolrare pagamenti_billing_aruba
 
 
@@ -180,16 +180,16 @@ BPER Banca S.p.A. agenzia Bibbiena Stazione
 
 ** modifica email spa => billing aruba
 
-modifica dati fatturazione => codice destinatario: sdi
+modifica dati fatturazione => codice destinatario (SistemaDiIntescambio)
 
 
-** visualizare fatture, fatture.aruba.it
+** visualizare fatture, fatture.aruba.it (formato .xml)
 
 il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 
 
 - contabilità => visualizza fatture => n.ordine
-- cambio dati fatturazione, correzione .. => pagamenti_billing_aruba
+- cambio dati di fatturazione, correzione .. => pagamenti_billing_aruba
 
 
 -----
@@ -208,7 +208,7 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 
 ** disconoscimento pagamento
 
-- amministrazione e pagamenti => disconoscimento pagamento
+- disconoscimento pagamento
 - alla risposta => inoltrare pagamenti_billing_aruba
 
 
