@@ -27,6 +27,7 @@
 
 - ric. accettazione: max 5h
 - ric. consegna: max 12h + 12h
+- peclog: 30m
 
 
 - conservazione digitale :: garantisce la conformità alle norme di legge per la conservazione e l'esigibilità dei messaggi (allegati compresi)
