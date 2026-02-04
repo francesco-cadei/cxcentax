@@ -138,9 +138,11 @@ posso modificare il leg.rapp. da extranet, senza documentazione ma aggiungendo n
 
 ** extranet username
 
-- username non attiva => procedo indicando il nome con un altra username valida
+- stato trasferita => partner
+
 - username cancellata => girare ad account_anagrafica
 - username e pec non corrispondono => girare a pec_change
+- username non attiva => procedo indicando il nome con un altra username valida
 
 
 - visualizzare carte
