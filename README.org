@@ -119,7 +119,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 
 - pec in convenzione, modulo di richiesta e stesso cf => extranet: cambio propietà
-- => reset storico accessi
+- => reset storico accessi, reimpostare pw
 
 
 ** correzione dati errati (no servizio)
