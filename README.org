@@ -13,6 +13,16 @@
   "a questo punto dovrebbe trovare un messaggio di risoluzione assistenza in cui poter cliccare il pulsante =Sì, ho risolto.= confermare. Vede: =La richiesta è stata chiusa=? La ringrazio, è stato un piacere."
 
 
+* IVR (Interactive Voice Response)
+
+- _anagrafica_centax: rinnovi, acquisti, pagamenti
+- _assistenza_centax: modifica dati, assistenza technica
+
+
+- modifica dati login => contattare TL
+- vendita: informazioni e modalità di acquisto servizio
+
+
 * www.pec.it
 
 "nuova raccomandata con ricevuta di ritorno", www.inipec.gov.it: indice nazionale indirizzi
@@ -105,7 +115,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 ** modifica titolare => username / modifica titolare / mortis causa
 
 - intralogin => usare pec
-- conferma identità pendente => usare username
+- conferma identità pendente / confermata  => usare username
 
 
 - pec in convenzione, modulo di richiesta e stesso cf => extranet: cambio propietà
