@@ -99,6 +99,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - fare annullare gli ordini all'utente
 - aumenta spazio
 - disattivare il rinnovo automatico se non compare il pulsante rinnova
+- rinnovo intraogin => usare username
 
 
 ** modifica titolare => username / modifica titolare / mortis causa
