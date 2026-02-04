@@ -40,13 +40,13 @@ max1 per volta => spezzare la risoluzione
 
 
 - centax => gestisci
-- billing_ARUBA => sollecito, mandare ticket ad un tl su teams
-- aruba: lun-ven 8:30-12:45, 14:30-17:30 => conference => tranferisci
-- aruba: fuori_orario => sollecito
+- aruba, competente => fornire assistenza
+- aruba, incompetente =>
+  - attesa reparto interno / attesa fornitore => solecito, mandare ticket ad un tl su teams
+  - proposta soluzione / attesa utente => feedback cliente, riportare quanto comunicato dal clt
 - _ => tranferisci
 
 
-- conference :: consultazione => rimanere in attesa => trasferisci o termina
 - scalo a tl :: "scalo per verifiche"
 
 
