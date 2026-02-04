@@ -107,7 +107,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - fare verificare all'utente lo stato di cancellata (posso dire solo la casella è scaduta da più di 90g)
 - riacquisto solo alle stesse condizioni
 - fare annullare gli ordini all'utente
-- aumenta spazio
+- aumenta spazio (intralogin => username)
 - disattivare il rinnovo automatico se non compare il pulsante rinnova
 - rinnovo intraogin => usare username
 
