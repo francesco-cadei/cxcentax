@@ -149,6 +149,7 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 - bollettino premarcato (ha il timbro), consigliato perché minimiza gli errori
 - bonifico > 72h LAVORATIVE => scala a tl
 - bonifico > 500€ => inolrare pagamenti_billing_aruba
+- bollettino > 72h LAVORATIVE => inolrare pagamenti_billing_aruba
 
 
 - contabilità => imposta pagamento (usare virgola)
@@ -284,7 +285,7 @@ rentri => certifiedplat_assistenza_transcom
 
 
 - dispatch => hosting (dominio privato), fatturazione (fra cui DocFly), cloud
-- operatore => pec, spid, firma (fra cui smartcard), billing
+- operatore => pec, spid, firma (fra cui smartcard, non ha il rinnovo automatico), billing
 
 
 -----
