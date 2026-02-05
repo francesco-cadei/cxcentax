@@ -6,11 +6,9 @@
 - attesa :: "Posso metterla un attimo in attesa? / La ringrazio per l'attessa."
 
 
-  - apra la @peo@
-  - www.pec.it supporto => accedi
+  "Troverà un messaggio di risoluzione assistenza a cui poter cliccare il pulsante =Sì, ho risolto.= forse le chiederanno una valutazione sulla mia assistenza. La ringrazio, è stato un piacere."
 
-
-  "a questo punto dovrebbe trovare un messaggio di risoluzione assistenza in cui poter cliccare il pulsante =Sì, ho risolto.= confermare. Vede: =La richiesta è stata chiusa=? La ringrazio, è stato un piacere."
+  - www.pec.it supporto => accedi => le tue richieste ..
 
 
 ** IVR (Interactive Voice Response)
@@ -35,7 +33,7 @@
 - .p7s: certificati
 
 
-- ric. accettazione: max 5h
+- ric. accettazione: max 5h (presa in carico dal gestore del mittente)
 - ric. consegna: max 12h + 12h
 - peclog: 30m
 
@@ -69,6 +67,9 @@ max1 per volta => spezzare la risoluzione
 - supportotitolari.aruba.it
 - @archiworldpec.it: 0575050013
 - @ingpec.eu: 0575050014
+
+
+- numero verde(=> gratuito) fibra: 800903633
 
 
 -----
@@ -197,6 +198,8 @@ BPER Banca S.p.A. agenzia Bibbiena Stazione
 
 modifica dati fatturazione => codice destinatario (SDI: sistema di intescambio)
 
+- p.iva <=> tipologia di utente
+
 
 ** visualizare fatture, fatture.aruba.it (formato .xml)
 
@@ -248,7 +251,7 @@ e-security => pec eu consumer (stato: ko, in lavorazione, nuova documentazione)
 
 
 - cf: legale rappresentante
-- avienda: visura camerale
+- azienda: visura camerale
 - associazoni: verbale assembleare
 
 
