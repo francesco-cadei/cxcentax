@@ -13,14 +13,14 @@
   "a questo punto dovrebbe trovare un messaggio di risoluzione assistenza in cui poter cliccare il pulsante =Sì, ho risolto.= confermare. Vede: =La richiesta è stata chiusa=? La ringrazio, è stato un piacere."
 
 
-* IVR (Interactive Voice Response)
+** IVR (Interactive Voice Response)
 
 - _anagrafica_centax: rinnovi, acquisti, pagamenti
 - _assistenza_centax: modifica dati, assistenza technica
 
 
 - modifica dati login => contattare TL
-- vendita: informazioni e modalità di acquisto servizio
+- vendita: informazioni e modalità di acquisto servizio ..
 
 
 * www.pec.it
@@ -195,7 +195,7 @@ BPER Banca S.p.A. agenzia Bibbiena Stazione
 
 ** modifica email spa => billing aruba
 
-modifica dati fatturazione => codice destinatario (SistemaDiIntescambio)
+modifica dati fatturazione => codice destinatario (SDI: sistema di intescambio)
 
 
 ** visualizare fatture, fatture.aruba.it (formato .xml)
@@ -293,6 +293,7 @@ apri ticket => incident => codice
 ** cambia gruppo
 
 fibra => connettività
+
 rentri => certifiedplat_assistenza_transcom
 
 
@@ -302,7 +303,7 @@ rentri => certifiedplat_assistenza_transcom
 
 -----
 
-** tricks
+** altro (non risolto => note complete)
 
 - cambia credenziale => salva
 - verificare p.soluzioni mensili
@@ -310,9 +311,7 @@ rentri => certifiedplat_assistenza_transcom
 
 
 - 626: 15min, pausa bagno
-
-
-- se non risolvi => meti note complete
+- chiamate mistery: cms
 
 
 ** fine turno
