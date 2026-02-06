@@ -128,13 +128,11 @@ tentare di modificare l'email di contatto tramite l'sms.
 i codici rcd li vede solo account_angrafica
 
 
-- solo residenza italiana => username => cambio dati (modifica anche spa)
-- _ =>
-  - solo servizio pec => inoltrare pec_change_aruba
-  - anche altri servizi => inoltrare account_anagrafica_cambio_dati
-
-
-posso modificare il leg.rapp. da extranet, senza documentazione ma aggiungendo nota con ticket
+  - solo pec =>
+    - nome, cognome => extranet, aggiungere nota con ticket
+    - ragione sociale, residenza italiana => username => cambio dati (modifica anche spa)
+    - _ => inoltrare pec_change_aruba
+  - anche altri servizi => inoltrare account_anagrafica / account_anagrafica_cambio_dati
 
 
 ** extranet username
