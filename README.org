@@ -6,9 +6,11 @@
 - attesa :: "Posso metterla un attimo in attesa? / La ringrazio per l'attessa."
 
 
-  "Troverà un messaggio di risoluzione assistenza a cui poter cliccare il pulsante =Sì, ho risolto.= forse le chiederanno una valutazione sulla mia assistenza. La ringrazio, è stato un piacere."
+  "Troverà un messaggio di risoluzione assistenza in cui poter cliccare il pulsante =Sì, ho risolto=.
+  Potrebbero chiederle una valutazione sulla MIA assistenza.
+  La ringrazio, è stato un piacere!"
 
-  - www.pec.it supporto => accedi => le tue richieste ..
+  - www.pec.it, supporto => accedi => le tue richieste ..
 
 
 ** IVR (Interactive Voice Response)
