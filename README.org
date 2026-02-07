@@ -124,6 +124,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 - contatti username => conferma documenti del nuovo titolare
 - fare verificare all'utente lo stato di cancellata (posso dire solo la casella è scaduta da più di 90g)
+  - impostazioni casella pec: richiesta log legali ..
 - riacquisto solo alle stesse condizioni
 - fare annullare gli ordini all'utente
 - aumenta spazio (intralogin => username)
@@ -164,6 +165,7 @@ i codici rcd li vede solo account_angrafica
 
 - visualizzare carte
 - accesso trust
+- sezione volture
 
 
 -----
