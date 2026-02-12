@@ -6,17 +6,17 @@
 - attesa :: "Posso metterla un attimo in attesa? / La ringrazio per l'attessa."
 
 
-  "Troverà un messaggio di risoluzione assistenza in cui poter cliccare il pulsante =Sì, ho risolto=.
-  Potrebbero chiederle una valutazione sulla MIA assistenza.
+  "Le ho inviato una email con quello che abbiamo fatto assieme, riuscirebbe a cliccare su =Sì, ho risolto=.
+  Forse le stanno chiedono una valutazione sulla MIA assistenza.
   La ringrazio, è stato un piacere!"
 
-  - www.pec.it, supporto => accedi => le tue richieste ..
+  - pec.it, supporto => accedi => le tue richieste ..
 
 
 ** IVR (Interactive Voice Response)
 
 - _crossline_centax: prevendita
-- _anagrafica_centax: acquisti, rinnovi, pagamenti
+  - _anagrafica_centax: acquisti, rinnovi, pagamenti
 - _assistenza_centax: modifica dati, assistenza technica
 
 
@@ -102,6 +102,7 @@ messaggi peo non danno notifica
 
 
 - webmail => transazione webmail
+- webamil => leggi fatture
 
 
 ** modificacontatti.pec.it (changecontact aruba)
@@ -110,7 +111,7 @@ messaggi peo non danno notifica
 - accedi alla pec => pw dimenticata => non puoi più accedere a questo indirizzo email? modificalo
 
 
-- contatti pga => conferma titolarità leg.rapp.
+- contatti pga => conferma titolarità leg.rapp. (id verificata => no invio documenti)
 
 
 ** [[https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx][configurazione-client]]
