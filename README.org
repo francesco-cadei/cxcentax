@@ -31,15 +31,6 @@
 - rentri => certifiedplat_assistenza_transcom
 
 
-** CMS mistery garante privacy
-
-- aprire sempre una nuova richiesta come una sottocategoria di: privacy, dati personali e .. (ticket => modificare la sezione servizi)
-- inoltrare: privacy_change / account_anagrafica_privacy
-- "le ho aperto una richiesta dedicata, riceverà una risposta da un opereratore che tratta queste tematiche quanto prima"
-- aruba deve rispondere entro 30g a queste richieste
-- eventuale email per contatto anonimo: privacy@staff.aruba.it
-
-
 * www.pec.it
 
 "nuova raccomandata con ricevuta di ritorno", www.inipec.gov.it: indice nazionale indirizzi
@@ -308,8 +299,16 @@ auth alta: verifica in 2 pass. => log applicativi => inoltrare a pec_request_aru
 apri ticket => incident => codice
 
 
-** altro (non risolto => note complete)
+** CMS mistery garante privacy
 
+- aprire sempre una nuova richiesta come una sottocategoria di: privacy, dati personali e .. (ticket => modificare la sezione servizi)
+- inoltrare: privacy_change / account_anagrafica_privacy
+- "le ho aperto una richiesta dedicata, riceverà una risposta da un opereratore che tratta queste tematiche quanto prima"
+- aruba deve rispondere entro 30g a queste richieste
+- eventuale email per contatto anonimo: privacy@staff.aruba.it
+
+
+** altro (non risolto => note complete)
 
 - verificare p.soluzioni mensili
 - cambia credenziale => salva
