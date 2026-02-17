@@ -6,7 +6,7 @@
 - attesa :: "Posso metterla un attimo in attesa? / La ringrazio per l'attessa."
 
 
-  "Le ho inviato una email con quello che abbiamo fatto assieme, riuscirebbe a cliccare su =Sì, ho risolto=.
+  "Le ho inviato una email con l'assistenza avuta assieme, riuscirebbe a cliccare su =Sì, ho risolto=.
   Forse le stanno chiedono una valutazione sulla MIA assistenza.
   La ringrazio, è stato un piacere!"
 
