@@ -87,7 +87,7 @@ max1 per volta => spezzare la risoluzione
 
 ** webmail.pec.it (pec/recuperopwpec)
 
-messaggi peo non danno notifica
+messaggi non pec non hanno notifiche per avvisi e report
 
 
 - webmail => transazione webmail
