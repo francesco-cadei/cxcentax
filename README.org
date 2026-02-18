@@ -123,7 +123,8 @@ tentare di modificare l'email di contatto tramite l'sms.
   - impostazioni casella pec: richiesta log legali ..
 - .. acquisto .. (riacquisto solo alle stesse condizioni)
 - fare annullare gli ordini all'utente
-- rinnovo / aumenta spazio (intralogin => usare username)
+- upgrade spazio (giorni rimanenti), rinnovo (attivato subito, pagato solo per gli anni successivi)
+  - intralogin => usare username
 - disattivare il rinnovo automatico se non compare il pulsante rinnova
 
 
