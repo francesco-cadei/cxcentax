@@ -125,7 +125,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - fare annullare gli ordini all'utente
 - upgrade spazio (giorni rimanenti), rinnovo (attivato subito, pagato solo per gli anni successivi)
   - intralogin => usare username
-- disattivare il rinnovo automatico se non compare il pulsante rinnova
+- compare il pulsante rinnova => disattivare il rinnovo automatico
 
 
 ** modifica titolare => username / modifica titolare / mortis causa
