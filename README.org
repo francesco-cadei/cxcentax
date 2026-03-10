@@ -66,12 +66,15 @@ max1 per volta => spezzare la risoluzione
 - _ => tranferisci
 
 
+- aruba, chiusa: apri una nuova ed aggiungi n. ticket in nota
+
+
 - scalo a tl :: "scalo per verifiche"
 
 
 ** partner/inoltroko: mappare activity (ticket: mdc partner)
 
-"questo indirizzo non l'ha acquistato direttamente dal portale pec.it, pertanto troverà un'assistenza dedicata al .."
+"questo indirizzo non l'ha acquistato direttamente dal portale pec.it, pertanto trova un'assistenza dedicata al .."
 
 
 - supportotitolari.aruba.it
@@ -92,6 +95,7 @@ messaggi non pec non hanno notifiche per avvisi e report
 
 - webmail => transazione webmail
 - webamil => leggi fatture
+- errori utilizzo webmail => mancata visualizzazione ricevute
 
 
 ** modificacontatti.pec.it (changecontact aruba)
@@ -177,9 +181,10 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 - bonifico > 72h LAVORATIVE => scala a tl
 - bonifico > 500€ => inolrare pagamenti_billing_aruba
 - bollettino > 72h LAVORATIVE => inolrare pagamenti_billing_aruba
+- bolletino lispay => puntolis, recupera ricevuta
 
 
-- contabilità => imposta pagamento (usare virgola)
+- contabilità => imposta pagamento (usare virgola) [è possibile indicare il numero di ordini]
 - aggiungere nota: ticket, commento, n. ordine
 
 
@@ -297,6 +302,8 @@ auth alta: verifica in 2 pass. => log applicativi => inoltrare a pec_request_aru
 -----
 
 ** incident
+
+equivale ad: attesa reparto interno
 
 apri ticket => incident => codice
 
