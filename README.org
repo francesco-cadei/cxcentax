@@ -31,9 +31,9 @@
 - rentri => certifiedplat_assistenza_transcom
 
 
-* www.pec.it
+* [[https://www.pec.it/][pec.it]]
 
-"nuova raccomandata con ricevuta di ritorno", www.inipec.gov.it: indice nazionale indirizzi
+"nuova raccomandata con ricevuta di ritorno", https://www.inipec.gov.it/web/guest/cerca-pec: indice nazionale indirizzi
 
 => convenzioni
 
@@ -51,6 +51,7 @@
 - conservazione digitale :: garantisce la conformità alle norme di legge per la conservazione e l'esigibilità dei messaggi (allegati compresi)
   - copia in da salvare => 72h => conservazione digitale => esibisci
 - standard europei (REM: Registered Electronic Mail) :: possibile adeguarsi, non ancora obbligatorio
+- AgID :: agenzia per l'italia digitale
 
 
 ** ticket (richiesta di assistenza)
@@ -176,6 +177,9 @@ i codici rcd li vede solo account_angrafica
 la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla registrazione del pagamento
 
 
+verificare: IT55C0538771335000042125809, data
+
+
 - bollettino bianco (istituti privati): cro (no cro => n.ordine n.ordine), n.ordine, importo
 - bollettino premarcato (ha il timbro), consigliato perché minimiza gli errori
 - bonifico > 72h LAVORATIVE => scala a tl
@@ -184,7 +188,7 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 - bolletino lispay => puntolis, recupera ricevuta
 
 
-- contabilità => imposta pagamento (usare virgola) [è possibile indicare il numero di ordini]
+- contabilità => imposta pagamento (usare virgola) [è possibile indicare il n. di ordini]
 - aggiungere nota: ticket, commento, n. ordine
 
 
