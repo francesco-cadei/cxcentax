@@ -223,8 +223,9 @@ modifica dati fatturazione => codice destinatario (SDI: sistema di intescambio)
 il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 
 
-- contabilità => visualizza fatture => n.ordine
-- cambio dati di fatturazione, correzione .. => pagamenti_billing_aruba
+- contabilità => visualizza fatture => n.ordine (posso inviarla anche ad una email differente)
+- cambio dati di fatturazione, correzione .. => indicare in nota il n. fattura, "cambio dati di fatturazione, invio fattura" => pagamenti_billing_aruba
+- extranet: copia dati faturazione da sx a dx
 
 
 -----
