@@ -225,6 +225,10 @@ BPER Banca S.p.A. agenzia Bibbiena Stazione
 modifica dati fatturazione => codice destinatario (SDI: sistema di intescambio)
 
 - p.iva <=> tipologia di utente
+- pubbliche amministrazioni (verificabili sull'IPA) possono pagare solo l'imponibili => ci inviano l'impegno di pagamento
+- aziende collaboranti con le PA: verifico sul sito DIPARTIMENTO DELLE FINANZE, copiare la striscia verde presente nel sito e la inserisco nelle note della richiesta di assistenza.
+
+ - CIG :: codice alfanumerico di 10 cifre che identifica la transazione di una PA
 
 
 ** visualizare fatture, fatture.aruba.it (formato .xml)
