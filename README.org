@@ -23,8 +23,8 @@
 - modifica dati login => contattare TL
 
 
-- dispatch => hosting (dominio privato), fatturazione (fra cui DocFly), cloud
-- operatore => pec, spid, firma (fra cui smartcard, non ha il rinnovo automatico), billing
+- dispatch => hosting (dominio privato), fatturazione (tra cui DocFly), cloud
+- operatore => pec, spid, firma (tra cui smartcard, non ha il rinnovo automatico), billing
 
 
 - fibra => connettività
@@ -285,7 +285,7 @@ auth alta: verifica in 2 pass. => log applicativi => inoltrare a pec_request_aru
 
 ** comunicazioni aruba (@staff.aruba.it, 05750505/05ricontatto)
 
-"il servizio è sempre attivo"
+"il servizio è sempre attivo (siamo sempre aperti)"
 
 - pagamenti e fature => phishing
 
