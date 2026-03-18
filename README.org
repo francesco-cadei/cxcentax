@@ -33,7 +33,10 @@
 
 * [[https://www.pec.it/][pec.it]]
 
-"nuova raccomandata con ricevuta di ritorno", https://www.inipec.gov.it/web/guest/cerca-pec: indice nazionale indirizzi
+"nuova raccomandata con ricevuta di ritorno"
+- https://www.inipec.gov.it/web/guest/cerca-pec: Indice Nazionale Indirizzi PEC
+- https://domiciliodigitale.gov.it/dgit/home/public/#!/home: Indice Nazionale dei Domicili Digitali
+
 
 => convenzioni
 
