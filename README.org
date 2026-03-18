@@ -264,16 +264,20 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 - alla risposta => inoltrare pagamenti_billing_aruba
 
 
-** diritto di recesso, mortis causa (14g intesi dall'attivazione)
+** disdetta (mortis causa) / recesso
 
-auth alta => scalo a tl, motivo altro
-
-
-- informazione cancellazione definitiva pec => mortis causa
-- rimborso => inoltro billing_aruba
-
-
-- consegueze cancellazione Pec :: come indicato, una volta cancellata la casella Pec, non sarà più possibile recuperare i messaggi
+- disdetta(PRO8734A) :: immediata, no rimborso
+  - mdc "informazioni cancellazioe definitiva pec" (mortis causa)
+  - auth alta: sms "cancelazione immediata e definitiva della casella .."
+  - escalation tl: "non desidera backup, non desidera rimborso"
+- recesso(PRO15138A) :: non immediata, vuole rimborso
+  - mdc: ".. entro/olre 14g" (dall'attivazione)
+  - "come da contatto telefonico la invito a rispondere alla presente comunicazione confermando la volontà di recedere dal servizio @NOME SERVIZIO@ con numero ordine @NUMERO di ORDINE@. La conferma è necessaria per poter evadere la richiesta di recesso.Le ricordo che, in caso di recesso, il servizio verrà cancellato con conseguente perdita dei dati. La invito pertanto a recuperare eventuali contenuti prima di confermare la richiesta.
+    @Le segnalo inoltre che verranno applicate spese di lavorazione pari a 10 €, che saranno trattenute dall’importo da rimborsare@".
+  - pec PF attivate < 14g => rimborso totale
+  - standard 12.08€ < 1m; pro 30.50€ < 7m; premium 48.80€ < 9m => rimborso - 10€
+  - _ => no rimborso
+  - escalation tl
 
 
 -----
