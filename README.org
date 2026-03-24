@@ -55,6 +55,7 @@
   - copia in da salvare => 72h => conservazione digitale => esibisci
 - standard europei (REM: Registered Electronic Mail) :: possibile adeguarsi, non ancora obbligatorio
 - AgID :: agenzia per l'italia digitale
+- eIDAS :: electronic IDentification, Authentication and trust Services
 
 
 ** ticket (richiesta di assistenza)
