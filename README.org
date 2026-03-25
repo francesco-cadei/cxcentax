@@ -29,6 +29,7 @@
 
 - fibra => connettività
 - rentri => certifiedplat_assistenza_transcom
+- scontrina => PRO11432A
 
 
 * [[https://www.pec.it/][pec.it]]
@@ -229,8 +230,8 @@ BPER Banca S.p.A. agenzia Bibbiena Stazione
 modifica dati fatturazione => codice destinatario (SDI: sistema di intescambio)
 
 - p.iva <=> tipologia di utente (persona giuridica)
-- pubbliche amministrazioni (verificabili sull'IPA) possono pagare solo l'imponibili => ci inviano l'impegno di pagamento
-- aziende collaboranti con le PA: verifico sul sito DIPARTIMENTO DELLE FINANZE, copiare la striscia verde presente nel sito e la inserisco nelle note della richiesta di assistenza.
+- PA (verificabili sull'IPA) possono pagare solo l'imponibili => ci inviano l'impegno di pagamento
+- aziende collaboranti con le PA (verificabili sul sito DIPARTIMENTO DELLE FINANZE) => copio la striscia verde e la inserisco nelle note della richiesta di assistenza
 
  - CIG :: codice alfanumerico di 10 cifre che identifica la transazione di una PA
 
