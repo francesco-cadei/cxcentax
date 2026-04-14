@@ -141,6 +141,9 @@ tentare di modificare l'email di contatto tramite l'sms.
 - compare il pulsante rinnova => disattivare il rinnovo automatico
 
 
+- auth alta => generare io gli ordini
+
+
 ** modifica titolare => username / modifica titolare / mortis causa
 
 - intralogin => usare pec
@@ -200,7 +203,7 @@ verificare: IT55C0538771335000042125809, data
 - aggiungere nota: ticket, commento, n. ordine
 
 
-stato ordine => pec_change_aruba: ordine pagato ma non evaso
+- ordine pagato >1h ma non evaso => inoltrare crossline_assistenza_aruba
 
 
 cro/trn/sct..
