@@ -25,6 +25,7 @@
 
 - dispatch => hosting (dominio privato), fatturazione (tra cui DocFly), cloud
 - operatore => pec, spid, firma (tra cui smartcard, non ha il rinnovo automatico), billing
+  - spid: lun-ven => inoltro diretto, _ => assistenza.aruba.it verrà ricontatto
 
 
 - fibra => connettività
