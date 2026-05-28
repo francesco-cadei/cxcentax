@@ -138,7 +138,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - fare annullare gli ordini all'utente
 - upgrade spazio (giorni rimanenti), rinnovo (attivato subito, pagato solo per gli anni successivi)
   - intralogin => usare username
-- compare il pulsante rinnova => disattivare il rinnovo automatico
+- non compare il pulsante rinnova => disattivare il rinnovo automatico
 
 
 - auth alta => generare io gli ordini
@@ -146,7 +146,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 ** modifica titolare => username / modifica titolare / mortis causa
 
-- intralogin => usare pec
+- intralogin (email di contatto devono essere differenti) => usare pec
 - conferma identità pendente / confermata  => usare username
 
 
@@ -172,12 +172,16 @@ i codici rcd li vede solo account_angrafica in 24/48h (per velocizzare posso inv
 
 - username cancellata => girare ad account_anagrafica
 - username e pec non corrispondono => girare a pec_change
-- username non attiva => procedo indicando il nome con un altra username valida
+- username non attiva => procedo con un altra username valida
+- utente disabilitato => nuova registrazioen e nuovo acquisto
 
 
 - visualizzare carte
 - accesso trust
 - sezione volture
+
+
+- clt chiede espressamente / ha errori => auth alta, posso rinnovare da extranet
 
 
 -----
