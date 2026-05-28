@@ -72,7 +72,7 @@ max1 per volta => spezzare la risoluzione
 - aruba, incompetente =>
   - attesa reparto interno / attesa fornitore => solecito, mandare ticket ad un tl su teams
   - proposta soluzione / attesa utente => feedback cliente, riportare quanto comunicato dal clt
-- _ => tranferisci
+- _ => tranferisci (a meno che chieda espressamente di non essere inoltrato)
 
 
 - aruba, chiusa: apri una nuova ed aggiungi n. ticket in nota
@@ -86,7 +86,7 @@ max1 per volta => spezzare la risoluzione
 "questo indirizzo non l'ha acquistato direttamente dal portale pec.it, pertanto trova un'assistenza dedicata al .."
 
 
-- supportotitolari.aruba.it
+- supportotitolari.aruba.it (fra cui actalis)
 - @archiworldpec.it: 0575050013
 - @ingpec.eu: 0575050014
 
@@ -102,9 +102,9 @@ max1 per volta => spezzare la risoluzione
 messaggi non pec non hanno notifiche per avvisi e report
 
 
-- webmail => transazione webmail
-- webamil => leggi fatture
+- webmail => transazione webmail / leggi fatture / archivio di sicurezza
 - errori utilizzo webmail => mancata visualizzazione ricevute
+- impostazioni casella pec => notifiche e reports
 
 
 ** modificacontatti.pec.it (changecontact aruba)
@@ -150,6 +150,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - conferma identità pendente / confermata  => usare username
 
 
+- ABA => controllare la email di contatto
 - pec in convenzione, modulo di richiesta e stesso cf => extranet: cambio propietà
 - => reset storico accessi, reimpostare pw
 
@@ -200,7 +201,7 @@ verificare: IT55C0538771335000042125809, data
 - bonifico > 72h LAVORATIVE => scala a tl
 - bonifico > 500€ => inolrare pagamenti_billing_aruba
 - bollettino > 72h LAVORATIVE => inolrare pagamenti_billing_aruba
-- bolletino lispay => puntolis, recupera ricevuta
+- bolletino lispay (2000 vicino alla data) => puntolis, recupera ricevuta
 
 
 - contabilità => imposta pagamento (usare virgola) [è possibile indicare il n. di ordini]
