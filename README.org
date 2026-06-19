@@ -74,7 +74,7 @@ max1 per volta => spezzare la risoluzione
 - aruba, incompetente =>
   - attesa reparto interno / attesa fornitore => solecito, mandare ticket ad un tl su teams
   - proposta soluzione / attesa utente => feedback cliente, riportare quanto comunicato dal clt
-- _ => tranferisci (a meno che chieda espressamente di non essere inoltrato)
+- _ => tranferisci (a meno che: si tratti di un altro servizio / chieda espressamente di non essere inoltrato)
 
 
 - aruba, chiusa: apri una nuova ed aggiungi n. ticket in nota
@@ -214,10 +214,14 @@ verificare: IT55C0538771335000042125809, data
 
 cro/trn/sct..
 
+*** doppio pagamento
+
+- copiare la nota su extranet nelle note del ticket ed inoltrare la richiesta (con n. ordine a cui trasferire il credito) a pagamenti_billig_aruba
+
 
 ** pagamenti.aruba.it (n.ordine:carte/paypal)
 
-bill-inserimento..
+bill-inserimento.. (non necessita di 2fa)
 
 
 - contabilità => visualizza transazioni => transazioni (n.ordine)
