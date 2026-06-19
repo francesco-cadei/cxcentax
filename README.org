@@ -105,7 +105,7 @@ messaggi non pec non hanno notifiche per avvisi e report
 
 - webmail => transazione webmail / leggi fatture / archivio di sicurezza
 - errori utilizzo webmail => mancata visualizzazione ricevute
-- impostazioni casella pec => notifiche e reports
+- impostazioni casella pec => notifiche e reports / regole messaggi
 
 
 ** modificacontatti.pec.it (changecontact aruba)
@@ -281,8 +281,8 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 ** disdetta (mortis causa) / recesso
 
 - disdetta(PRO8734A) :: immediata, no rimborso
-  - mdc "informazioni cancellazioe definitiva pec" (mortis causa)
-  - auth alta: sms "cancelazione immediata e definitiva della casella .."
+  - mdc "informazioni cancellazione definitiva pec" (mortis causa)
+  - auth alta: sms "cancellazione immediata e definitiva della casella .."
   - escalation tl: "non desidera backup, non desidera rimborso"
 - recesso(PRO15138A) :: non immediata, vuole rimborso
   - mdc: ".. entro/olre 14g" (dall'attivazione)
