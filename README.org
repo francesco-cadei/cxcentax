@@ -105,7 +105,7 @@ messaggi non pec non hanno notifiche per avvisi e report
 
 - webmail => transazione webmail / leggi fatture / archivio di sicurezza
 - errori utilizzo webmail => mancata visualizzazione ricevute
-- impostazioni casella pec => notifiche e reports / regole messaggi
+- impostazioni casella pec => ricezione posta ordinaria / notifiche e reports / regole messaggi
 
 
 ** modificacontatti.pec.it (changecontact aruba)
@@ -292,6 +292,11 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
   - standard 12.08€ < 1m; pro 30.50€ < 7m; premium 48.80€ < 9m => rimborso - 10€
   - _ => no rimborso
   - escalation tl
+
+
+** rimborso ordine (assicurarsi di aver disattivato il rinnovo automatico)
+
+- segnalazione telefonica per passaggio di credito .. => rimborso
 
 
 -----
