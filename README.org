@@ -31,6 +31,7 @@
 - fibra => connettività
 - rentri => certifiedplat_assistenza_transcom
 - scontrina => PRO11432A
+- serviceline <=> pec_request_aruba
 
 
 - richieste anonime: essere generico, aggiungere cell.
@@ -132,7 +133,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - modifica dati iscrizione associati allo username @aruba.it PEC => modifica dati online account aruba
 
 
-- contatti username => conferma documenti del nuovo titolare
+- correggi contatti username => conferma documenti del titolare (viene creato un rcd..)
 - fare verificare all'utente lo stato di cancellata
   - impostazioni casella pec: richiesta log legali ..
 - .. acquisto .. (riacquisto solo alle stesse condizioni, => quelle in convezione non possono essere riacquistate)
@@ -148,7 +149,6 @@ tentare di modificare l'email di contatto tramite l'sms.
 ** modifica titolare => username / modifica titolare / mortis causa
 
 - intralogin (email di contatto devono essere differenti) => usare pec
-- conferma identità pendente / confermata  => usare username
 
 
 - ABA => controllare la email di contatto
