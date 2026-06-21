@@ -77,6 +77,11 @@ max1 per volta => spezzare la risoluzione
 - _ => tranferisci (a meno che: si tratti di un altro servizio / chieda espressamente di non essere inoltrato)
 
 
+- crossline_assistenza_aruba: rinnovo / acquisto / upgrade
+- pec_request_aruba: errori di utilizzo
+- pec_change_aruba: modifiche
+
+
 - aruba, chiusa: apri una nuova ed aggiungi n. ticket in nota
 
 
