@@ -41,7 +41,7 @@
 
 "nuova raccomandata con ricevuta di ritorno"
 - https://www.inipec.gov.it/web/guest/cerca-pec: Indice Nazionale Indirizzi PEC
-- https://domiciliodigitale.gov.it/dgit/home/public/#!/home: Indice Nazionale dei Domicili Digitali
+- https://domiciliodigitale.gov.it/dgit/home/public/#!/home: (attivare da qui) Indice Nazionale dei Domicili Digitali
 
 
 => convenzioni
@@ -96,6 +96,7 @@ max1 per volta => spezzare la risoluzione
 - supportotitolari.aruba.it (fra cui actalis)
 - @archiworldpec.it: 0575050013
 - @ingpec.eu: 0575050014
+- business: 0575050300
 
 
 - numero verde(=> gratuito) fibra: 800903633
@@ -344,6 +345,7 @@ auth alta: verifica in 2 pass. => log applicativi => inoltrare a pec_request_aru
 
 -----
 
+
 ** incident
 
 equivale ad: attesa reparto interno
@@ -377,3 +379,9 @@ apri ticket => incident => codice
 - mai rilasciare: mancata accettazione
 
 
+-----
+
+
+** copia-incolla
+
+- (indicate le conseguenze di una possibile futura cancellazione)
