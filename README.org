@@ -120,7 +120,7 @@ messaggi non pec non hanno notifiche per avvisi e report
 - accedi alla pec => pw dimenticata => non puoi più accedere a questo indirizzo email? modificalo
 
 
-- contatti pga => conferma titolarità leg.rapp. (id verificata => no invio documenti)
+- contatti pga => conferma titolarità leg.rapp. (spid e webcam <=> utilizzati in pasato; id verificata => no invio documenti)
 
 
 ** [[https://guide.pec.it/posta-pec/configurare-casella-pec/configurare-casella-pec-programma-posta.aspx][configurazione-client]]
