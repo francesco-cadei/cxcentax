@@ -112,7 +112,7 @@ messaggi non pec non hanno notifiche per avvisi e report
 
 - webmail => transazione webmail / leggi fatture / archivio di sicurezza
 - errori utilizzo webmail => mancata visualizzazione ricevute
-- impostazioni casella pec => ricezione posta ordinaria / notifiche e reports / regole messaggi
+- impostazioni casella pec => ricezione posta ordinaria / notifiche e reports / regole messaggi / documento di certificazione
 
 
 ** modificacontatti.pec.it (changecontact aruba)
