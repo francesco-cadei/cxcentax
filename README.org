@@ -164,11 +164,13 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 ** correzione dati errati (no servizio)
 
-  - solo pec =>
-    - nome, cognome => extranet, aggiungere nota con ticket
-    - ragione sociale, residenza italiana => username => cambio dati (modifica anche spa)
-    - _ => inoltrare pec_change_aruba
-  - anche altri servizi => inoltrare account_anagrafica / account_anagrafica_cambio_dati
+
+- azienda: rapp. legale => extranet (auth alta), aggiungere nota con ticket
+- solo pec =>
+  - nome, cognome => extranet, aggiungere nota con ticket
+  - ragione sociale, residenza italiana => username => cambio dati (modifica anche spa)
+  - _ => inoltrare pec_change_aruba
+- anche altri servizi => inoltrare account_anagrafica / account_anagrafica_cambio_dati
 
 
 i codici rcd li vede solo account_angrafica in 24/48h (per velocizzare posso inviarli in chat ad un tl)
