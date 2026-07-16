@@ -115,7 +115,7 @@ messaggi non pec non hanno notifiche per avvisi e report
 - impostazioni casella pec => ricezione posta ordinaria / notifiche e reports / regole messaggi / documento di certificazione
 
 
-** modificacontatti.pec.it (changecontact aruba)
+** modificacontatti.pec.it (changecontact-aruba)
 
 - webmail => impostazioni => email e cellulare
 - accedi alla pec => pw dimenticata => non puoi più accedere a questo indirizzo email? modificalo
@@ -184,7 +184,7 @@ i codici rcd li vede solo account_angrafica in 24/48h (per velocizzare posso inv
 - username cancellata => girare ad account_anagrafica
 - username e pec non corrispondono => girare a pec_change
 - username non attiva => procedo con un altra username valida
-- utente disabilitato => nuova registrazioen e nuovo acquisto
+- utente disabilitato => nuova registrazione e nuovo acquisto
 
 
 - visualizzare carte
@@ -204,6 +204,11 @@ la fattura arriva al indirizzo peo indicato entro il 15 del mese successivo alla
 
 
 verificare: IT55C0538771335000042125809, data
+
+- attivazione servizi => posso registrare il pagamento immediatamente
+- rinnovo:
+  - servio scade entro 5g => registro
+  - servizio non scade entro 5g => "rinnovo eseguito da meno di 3 giorni.."
 
 
 - bollettino bianco (istituti privati): cro (no cro => n.ordine n.ordine), n.ordine, importo
