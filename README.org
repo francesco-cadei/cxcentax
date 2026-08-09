@@ -71,7 +71,7 @@ max1 per volta => spezzare la risoluzione
 
 - centax => gestisci
 - aruba, competente => fornire assistenza
-- aruba, incompetente =>
+- aruba, incompetente (serviceline, cloud_assistenza_aruba) =>
   - attesa reparto interno / attesa fornitore => solecito, mandare ticket ad un tl su teams
   - proposta soluzione / attesa utente => feedback cliente, riportare quanto comunicato dal clt
 - _ => tranferisci (a meno che: si tratti di un altro servizio / chieda espressamente di non essere inoltrato)
@@ -116,6 +116,8 @@ messaggi non pec non hanno notifiche per avvisi e report
 
 
 ** modificacontatti.pec.it (changecontact-aruba)
+
+(viene creato un pcs..)
 
 - webmail => impostazioni => email e cellulare
 - accedi alla pec => pw dimenticata => non puoi più accedere a questo indirizzo email? modificalo
@@ -301,7 +303,7 @@ il cassetto fiscale dell'agenzia delle entrate va attivato manualmente
 - disdetta(PRO8734A) :: immediata, no rimborso
   - mdc "informazioni cancellazione definitiva pec" (mortis causa)
   - auth alta: sms "cancellazione immediata e definitiva della casella .."
-  - escalation tl: "non desidera backup, non desidera rimborso"
+  - escalation tl: "già effettuato il backup, non ha diritto a rimborso"
 - recesso(PRO15138A) :: non immediata, vuole rimborso
   - mdc: ".. entro/olre 14g" (dall'attivazione)
   - "come da contatto telefonico la invito a rispondere alla presente comunicazione confermando la volontà di recedere dal servizio @NOME SERVIZIO@ con numero ordine @NUMERO di ORDINE@. La conferma è necessaria per poter evadere la richiesta di recesso.Le ricordo che, in caso di recesso, il servizio verrà cancellato con conseguente perdita dei dati. La invito pertanto a recuperare eventuali contenuti prima di confermare la richiesta.
