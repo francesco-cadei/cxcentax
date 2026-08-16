@@ -15,6 +15,9 @@
 
 ** IVR (Interactive Voice Response)
 
+se doppio profilo, usare cliente, non titolare
+
+
 - _crossline_centax: disdetta (no mortis causa), recesso, pw username
   - _anagrafica_centax: acquisti, rinnovi, pagamenti
 - _assistenza_centax: modifica dati, assistenza technica
@@ -168,7 +171,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 - => reset storico accessi, reimpostare pw
 
 
-** correzione dati errati (no servizio)
+** servizio => correzione dati errati
 
 
 - azienda: rapp. legale => extranet (auth alta), aggiungere nota con ticket
