@@ -75,7 +75,7 @@ max1 per volta => spezzare la risoluzione
 - centax => gestisci
 - aruba, competente => fornire assistenza
 - aruba, incompetente (serviceline, cloud_assistenza_aruba) =>
-  - attesa reparto interno / attesa fornitore => solecito, mandare ticket ad un tl su teams
+  - attesa reparto interno / attesa fornitore => sollecito, mandare ticket ad un tl su teams
   - proposta soluzione / attesa utente => feedback cliente, riportare quanto comunicato dal clt
 - _ => tranferisci (a meno che: si tratti di un altro servizio / chieda espressamente di non essere inoltrato)
 
@@ -96,7 +96,7 @@ max1 per volta => spezzare la risoluzione
 "questo indirizzo non l'ha acquistato direttamente dal portale pec.it, pertanto trova un'assistenza dedicata al .."
 
 
-- supportotitolari.aruba.it (fra cui actalis)
+- "assistenza partner pec" -> "richiedi supporto" (i numeri indicati sono solo per i partner, non per i clienti finali)
 - @archiworldpec.it: 0575050013
 - @ingpec.eu: 0575050014
 
@@ -175,6 +175,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 
 - azienda: rapp. legale => extranet (auth alta), aggiungere nota con ticket
+- anagrafica validata => usare login extranet
 - solo pec =>
   - nome, cognome => extranet, aggiungere nota con ticket
   - ragione sociale, residenza italiana => username => cambio dati (modifica anche spa)
@@ -341,7 +342,7 @@ e-security => pec eu consumer (stato: ko, in lavorazione, nuova documentazione)
 (più recente del ko e non più vecchia di 30giorni)
 
 
-** richiesta log applicativi
+** richiesta log applicativi (max 6 mesi nel passato)
 
 auth alta: verifica in 2 pass. => log applicativi => inoltrare a pec_request_aruba
 
