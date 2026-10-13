@@ -1,5 +1,5 @@
 
-* formule
+* aruba
 
 - ticket :: "Buongiorno/Buonasera, sono @nome@, la chiamo dall'Italia per conto di Aruba S.p.A.. Vedo che ha aperto una richiesta di assistenza .."
 - chiamata :: "Buongiorno/Buonasera, sono @nome@ di Aruba le rispondo dall'Italia. Come posso aiutarla?"
@@ -35,6 +35,7 @@ se doppio profilo, usare cliente, non titolare
 - rentri => certifiedplat_assistenza_transcom
 - scontrina => PRO11432A
 - serviceline <=> pec_request_aruba
+- email @aruba.it => googlare "ripristino password caselle @aruba.it o @technet.it"
 
 
 - richieste anonime: essere generico, aggiungere cell.
@@ -96,7 +97,7 @@ max1 per volta => spezzare la risoluzione
 "questo indirizzo non l'ha acquistato direttamente dal portale pec.it, pertanto trova un'assistenza dedicata al .."
 
 
-- "assistenza partner pec" -> "richiedi supporto" (i numeri indicati sono solo per i partner, non per i clienti finali)
+- googlare "assistenza partner pec" -> "richiedi supporto" (i numeri indicati sono solo per i partner, non per i clienti finali)
 - @archiworldpec.it: 0575050013
 - @ingpec.eu: 0575050014
 
