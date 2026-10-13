@@ -70,7 +70,7 @@ se doppio profilo, usare cliente, non titolare
 
 ** ticket (richiesta di assistenza)
 
-max1 per volta => spezzare la risoluzione
+max1 (indirizzo pec) per volta => spezzare la risoluzione
 
 
 - centax => gestisci
@@ -267,13 +267,13 @@ BPER Banca S.p.A. agenzia Bibbiena Stazione
 
 ** modifica email spa => billing aruba
 
-modifica dati fatturazione => codice destinatario (SDI: sistema di intescambio)
+modifica dati fatturazione => codice destinatario (SDI: sistema di interscambio)
 
 - p.iva <=> tipologia di utente (persona giuridica)
 - PA (verificabili sull'IPA) possono pagare solo l'imponibili => ci inviano l'impegno di pagamento
 - aziende collaboranti con le PA (verificabili sul sito DIPARTIMENTO DELLE FINANZE) => copio la striscia verde e la inserisco nelle note della richiesta di assistenza
 
- - CIG :: codice alfanumerico di 10 cifre che identifica la transazione di una PA
+ - CIG :: codice alfanumerico di 10 cifre che identifica la transazione di una PA (contratto pubblico su appalto)
 
 
 ** visualizare fatture, fatture.aruba.it (formato .xml)
