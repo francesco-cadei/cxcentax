@@ -26,7 +26,7 @@ se doppio profilo, usare cliente, non titolare
 - modifica dati login => contattare TL
 
 
-- dispatch => hosting (dominio privato), fatturazione (tra cui DocFly), cloud
+- dispatch => hosting (dominio privato) [pre vendita => _anagrafica, post vendita => _assistenza], fatturazione (tra cui DocFly), cloud
 - operatore => pec, spid, firma (tra cui smartcard, non ha il rinnovo automatico), billing
   - spid: lun-ven => inoltro diretto, _ => assistenza.aruba.it verrà ricontatto
 
