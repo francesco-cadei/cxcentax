@@ -20,7 +20,7 @@ se doppio profilo, usare cliente, non titolare
 
 - _crossline_centax: disdetta (no mortis causa), recesso, pw username
   - _anagrafica_centax: acquisti, rinnovi, pagamenti
-- _assistenza_centax: modifica dati, assistenza technica
+- _assistenza_centax: modifica dati, assistenza tecnica
 
 
 - modifica dati login => contattare TL
@@ -167,7 +167,7 @@ tentare di modificare l'email di contatto tramite l'sms.
 
 ** modifica titolare => username / modifica titolare / mortis causa
 
-- intralogin (email di contatto devono essere differenti) => usare pec
+- intralogin (email di contatto devono essere differenti)
 
 
 - ABA => controllare la email di contatto
